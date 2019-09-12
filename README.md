@@ -2,7 +2,7 @@
 A repository containing the source code and description for the project presented in https://www.youtube.com/watch?v=vGGvgp6u1-M.
 The source code has been "hidden" in the comment section for quite a while and i am sorry for those of you who might have missed it. 
 
-The project was a part of a small subject during my bachelors degree and it has been quite some time since I have looked at it. Unfortunately the report and the comments in the code are in Norwegian and I do not have the time to translate them. 
+The project was a part of a small subject during my bachelors degree and was done together with [Jonas Waaler](https://github.com/jonasswa). It has been quite some time since I have looked at it. Unfortunately the report is written in Norwegian, but some quick translation of the variables can be found in the code. 
 I have made a small descrition of how the code works below.
 There is also heaps and loads of improvements that can be done. 
 
